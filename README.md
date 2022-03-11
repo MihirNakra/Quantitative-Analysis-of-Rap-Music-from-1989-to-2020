@@ -1,6 +1,6 @@
 # Quantitative Analysis of Rap Music from 1989 to 2020
 
-by Parth Wokhlu and Mihir Nakra 
+by Parth Wokhlu and Mihir Nakr 
 
 Parth Wokhlu: parth.wokhlu.843@gmail.com
 
